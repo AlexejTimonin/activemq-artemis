@@ -55,6 +55,10 @@ AMQSize::
 The size of a message in bytes.
 The value is an integer.
 
+AMQFullSize::
+The whole size of a message in bytes.
+The value is a long integer.
+
 Any other identifiers used in core filter expressions will be assumed to be properties of the message.
 
 == Property Identifier Constraints
