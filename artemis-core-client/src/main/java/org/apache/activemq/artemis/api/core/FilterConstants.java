@@ -63,7 +63,7 @@ public final class FilterConstants {
    public static final SimpleString ACTIVEMQ_SIZE = SimpleString.of("AMQSize");
 
    /**
-    * Name of the Apache Artemis Message full size header.
+    * Name of the Apache Artemis Message full size filter property.
     */
    public static final SimpleString ACTIVEMQ_FULL_SIZE = SimpleString.of("AMQFullSize");
 
